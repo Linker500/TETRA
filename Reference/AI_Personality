@@ -1,0 +1,45 @@
+Scales are -4 to +4
+
+               Risky
+                 ^         
+                 |         
+                 |         
+                 |         
+ Turtle <--------X--------> Rabbit
+                 |         
+                 |         
+                 |         
+                 v         
+              Careful
+
+
+Risky players are more likely to make decisions with higher risk in encounters.
+Careful players are more likely to take the safest option in an encoutner.
+
+Turtle: Loots as much as possible (2 Loot)
+    >Stays at spawn to loot
+    >Easily Equipped for enviorment, but many players
+    >Shadow zone is dangerous
+
+Halfway: Mix between Turtle and Rabbit
+    >Loots at spawn then leaves
+
+Rabbit: Run to center to get loot (2 move)
+    >Leaves spawn immediately
+    >Quiet area, no players, but uneqipped for enviorment
+    >May no get MAGIK first
+
+TODO: Dynamic risk based on situation?
+Additionally every AI will have a favored stat that they focus on
+
+MOVEMENT PRIORITY
+    Is it on/near shade?
+    Then have I been on it before?
+
+
+Movement Options-
+M ove
+S earch
+F ortify
+C raft
+

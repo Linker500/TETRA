@@ -1,0 +1,29 @@
+Warning: Math ahead
+
+To succeed in crafting, this statement must be true
+: Player Score > (Tool Tier - Material Tier) * 2 + 4
+
+--------------------------------------------------------------------------------
+    Material Tier:
+This is the base for how good the resulting tool will be.
+The total quality is the average of both inputed materials.
+If it is a non whole number, it will randomly round either up or down.
+--------------------------------------------------------------------------------
+    Tool Tier:
+A player when crafting will select the tier of tool they want to create.
+Assuming the tool tier is the same as the material tier,
+the difficulty check is 4. This is the base check.
+Howeverm if a player wanted to create a tool tier higher than the material tier,
+the check will be 2 points higher for each tier higher they attempt to craft.
+This also works will crafting tool tiers lower then the material tier, making
+the check 2 points less for each tier.
+--------------------------------------------------------------------------------
+    Player Score:
+This is the player's total score. It is compiled from their bonuses and a roll.
+Player Score = Player's Mental Stat + Player's Craft Stat + D6 Roll.
+--------------------------------------------------------------------------------
+    Results:
+If the check succeeds, the player then chooses what tool type they want to make,
+and creates that tool.
+If the check fails, the player fails and wastes the materials.
+--------------------------------------------------------------------------------

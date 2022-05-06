@@ -1,0 +1,27 @@
+Encounter Options
+A (Attack)	Attack your opponent.
+R (Run)		Flee from your opponent.
+C (Charm)	Charm your opponent to not attack you and maybe give you stuff
+
+
+
+	2 Player Encounters
+Type	 Required	Attributes used
+--------------------------------------------------------
+Duel	 (AA)		A:(Phy + Att) vs A:(Phy + Att)
+Chase	 (RA)		R:(Phy + bonus) vs A:(Phy)
+Flee	 (RR)		Nothing happens. Cowards.
+Charm	 (CA || CR)     C:(Cha) vs A/R(Int)
+Converse (CC)		C:(Cha) vs (Cha)
+
+
+Run vs Run	n/a
+
+
+Atk vs Atk	Phy
+Atk vs Run	Phy (Runner has bonus)
+
+Atk vs Cha	Phy vs Cha
+
+Cha vs Atk	Cha
+Cha vs Run	Cha (Runner has bonus)

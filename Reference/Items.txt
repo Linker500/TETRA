@@ -1,0 +1,34 @@
+	Tools-0	(Boost to ability, but can be stolen)
+Attack
+	Crude; Decent; Master; 
+Craft
+	Crude; Decent; Master;
+Charm
+	Crude; Decent; Master;
+
+
+	Drugs-1 (Permenant stat boost)
+Physical (Fruit Punch)
+	Contaiminated; Impure;  Pure;
+Mental   (Cool Mint)
+	Contaiminated; Impure;  Pure;
+Social   (Lemon-Lime)
+	Contaiminated; Impure;  Pure;
+
+
+	Materials-2 (Three tiers of materials
+Base (Main material)
+	Crude; Decent; Master;
+Binder (Used to connect pieces)
+	Crude; Decent; Master;
+
+	Loot Crates-5
+Common
+
+Uncommon
+
+Epic
+
+Ultra
+
+Legendary
